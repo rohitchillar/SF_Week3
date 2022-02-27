@@ -1,18 +1,18 @@
-# Bidirectional payment channel
-Inspired by the Bitcoin lightning network and the solidity contract this framework presents a method for two participants to exchange SOL off chain any number of times without incurring any transaction fees other than the first and the last transaction.
+# Bi-directional payment channel
+##### Inspired by the Bitcoin lightning network and the solidity contract this framework presents a method for two participants to exchange SOL off chain any number of times without incurring any transaction fees other than the first and the last transaction.
 
-Note: If the participants choose to update the channel in between then they might have more than two transactions. 
+*Note: If the participants choose to update the channel then they might have more than two transactions.* 
 
-CREATING THE CHANNEL
+### CREATING THE PAYMENT CHANNEL
 
-1. Funding 
+- Funding 
 
-- Create a multisig account (2 of 2)
-- Create transaction instructions:
-1) To fund a wallet (PDA of the program) with the initial amount from Alice and Bob (ex. Alice put in 5 SOL & Bob put in 5 SOL).
-2) Initialize the Struct : Payment Channel (PDA of the program) :  Maintains Alice balance and pubkey, Bob balance and pubkey, expiration date
-- Both Alice and Bob invoke the approve instructions.
-- Anyone can execute the transaction once both have signed.
+  - Create a multisig account (2 of 2)
+  - Create transaction instructions:
+    1) To fund a wallet (PDA of the program) with the initial amount from Alice and Bob (ex. Alice put in 5 SOL & Bob put in 5 SOL).
+    2) Initialize the Struct : Payment Channel (PDA of the program) :  Maintains Alice balance and pubkey, Bob balance and pubkey, expiration date
+  - Both Alice and Bob invoke the approve instructions.
+  - Anyone can execute the transaction once both have signed.
 
 2. Creating Initial transaction
 
