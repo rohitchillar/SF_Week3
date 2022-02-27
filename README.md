@@ -49,7 +49,7 @@ Both of them create a new private key #2 for themselves.
 
 If any of them choose to sign and broadcast the transaction then their balances will be settled up. 
 
-So far so good. Let’s see what happens when Alice tries to game the system and send an old transaction (5 SOL Alice and 5 SOL Bob). When Bob signs he immediately gets his 5 SOL and Alice has to wait for a certain period of time. If during this period, Bob realizes that he should have gotten 7 SOL and he has been cheated then he can use the private key #1 of Alice to withdraw the complete amount from the wallet. 
+So far so good. Let’s see what happens when Alice tries to game the system and broadcast an old transaction already signed by Bob (5 SOL Alice and 5 SOL Bob). Bob immediately gets his 5 SOL and Alice has to wait for a certain period of time. If during this period, Bob realizes that he should have gotten 7 SOL and he has been cheated then he can use the private key #1 of Alice to withdraw the complete amount from the wallet. 
 
 **Hence when Alice and Bob exchanged their old private keys they made sure that no one can game the system or they risk losing all of their money.**
 
