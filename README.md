@@ -62,8 +62,10 @@ If anyone wants to settle up or cash out they can then choose to broadcast any t
 
 ### IF PARTIES GET NON COOPERATIVE 
 
-i.e. refusing to sign each others transactions - Then post expiration, delete the payment channel/wallet and send the money back to Alice and Bob by referring to balances in the payment channel account
+i.e. refusing to sign each others transactions - Then post expiration, delete the payment channel/wallet and send the money back to Alice and Bob by referring to balances in the payment channel account.
 
 ### UPDATE THE PAYMENT CHANNEL 
 
-Payment channel can be updated after some transactions  so that if any party becomes uncooperative then the program refers to a more recent ledger for settlement. 
+Payment channel can be updated after some transactions  so that if any party becomes uncooperative then the program refers to a more recent ledger for settlement.
+
+Implementation of this exercise is still pending as it took a lot of time to wrap my head around this concept. Will ship soon. 
