@@ -57,7 +57,7 @@ Now they can make any number of transactions they want without broadcasting to t
 
 ### CLOSING THE CHANNEL 
 
-If anyone wants to settle up or cash out they can then choose to broadcast any transaction. This will lock the funds one of the participants for a certain period of time. To avaoid this, If both parties agree then they can send a different transaction which does not have the conditions on the special account, both of them can approve and execute to receive money instantly. 
+If anyone wants to settle up or cash out they can then choose to broadcast any transaction. This will lock the funds of one of the participants for a certain period of time. To avoid this, if both parties agree then they can send a different transaction which does not have the conditions on the special account, both of them can approve and execute to receive money instantly. 
 
 
 ### IF PARTIES GET NON COOPERATIVE 
