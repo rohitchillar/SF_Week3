@@ -1,5 +1,4 @@
-
-#Bidirectional payment channel
+# Bidirectional payment channel
 Inspired by the Bitcoin lightning network and the solidity contract this framework presents a method for two participants to exchange SOL off chain any number of times without incurring any transaction fees other than the first and the last transaction.
 
 Note: If the participants choose to update the channel in between then they might have more than two transactions. 
