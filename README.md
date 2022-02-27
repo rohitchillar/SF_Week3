@@ -68,4 +68,4 @@ i.e. refusing to sign each others transactions - Then post expiration, delete th
 
 Payment channel can be updated after some transactions  so that if any party becomes uncooperative then the program refers to a more recent ledger for settlement.
 
-Implementation of this exercise is still pending as it took a lot of time to wrap my head around this concept. Will ship soon. 
+*Implementation of this exercise is still pending as it took a lot of time to wrap my head around this concept. Will ship soon.*
