@@ -1,0 +1,5 @@
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/subtle-d7ab407b5a5fdc9e.rmeta: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/subtle-2.4.1/src/lib.rs
+
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/subtle-d7ab407b5a5fdc9e.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/subtle-2.4.1/src/lib.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/subtle-2.4.1/src/lib.rs:

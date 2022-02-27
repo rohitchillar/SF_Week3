@@ -1,0 +1,10 @@
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/libasync_trait-c6901b48090ce262.so: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/args.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/expand.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/lifetime.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/parse.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/receiver.rs
+
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/async_trait-c6901b48090ce262.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/args.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/expand.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/lifetime.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/parse.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/receiver.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/args.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/expand.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/lifetime.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/parse.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.52/src/receiver.rs:

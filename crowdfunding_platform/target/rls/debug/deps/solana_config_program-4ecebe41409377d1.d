@@ -1,0 +1,8 @@
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/solana_config_program-4ecebe41409377d1.rmeta: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/config_instruction.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/config_processor.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/date_instruction.rs
+
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/solana_config_program-4ecebe41409377d1.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/config_instruction.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/config_processor.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/date_instruction.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/config_instruction.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/config_processor.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.7.10/src/date_instruction.rs:

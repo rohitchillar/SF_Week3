@@ -1,0 +1,11 @@
+/home/loopmonkey/Desktop/SF_Week3/crowdfunding_platform/target/debug/deps/serde_bytes-428cbfa12b7a9028.rmeta: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs
+
+/home/loopmonkey/Desktop/SF_Week3/crowdfunding_platform/target/debug/deps/libserde_bytes-428cbfa12b7a9028.rlib: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs
+
+/home/loopmonkey/Desktop/SF_Week3/crowdfunding_platform/target/debug/deps/serde_bytes-428cbfa12b7a9028.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytes.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/de.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/ser.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.5/src/bytebuf.rs:

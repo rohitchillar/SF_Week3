@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/bpfel-unknown-unknown/release/build/typenum-062cdbbfe64413a7/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/bpfel-unknown-unknown/release/build/typenum-062cdbbfe64413a7/out/op.rs

@@ -1,0 +1,11 @@
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/bpfel-unknown-unknown/release/deps/sha3-0bc204cb8c527cc8.rmeta: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/bpfel-unknown-unknown/release/deps/libsha3-0bc204cb8c527cc8.rlib: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/bpfel-unknown-unknown/release/deps/sha3-0bc204cb8c527cc8.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/paddings.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/macros.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/reader.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.9.1/src/state.rs:

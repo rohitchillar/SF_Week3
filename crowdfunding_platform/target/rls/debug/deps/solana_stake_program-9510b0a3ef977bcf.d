@@ -1,0 +1,8 @@
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/solana_stake_program-9510b0a3ef977bcf.rmeta: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/config.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/stake_instruction.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/stake_state.rs
+
+/home/loopmonkey/Desktop/SF_Week1/Deploy a program/crowdfunding_platform/target/rls/debug/deps/solana_stake_program-9510b0a3ef977bcf.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/config.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/stake_instruction.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/stake_state.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/config.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/stake_instruction.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.7.10/src/stake_state.rs:
